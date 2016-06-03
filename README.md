@@ -4,9 +4,6 @@ Multi-Room Chat Application
 This application created as part of a node.js and socket.io tutorial.
 It includes a server built in node.js and a html client.
 
-You can read the full tutorial at:
-http://udidu.blogspot.com/2012/11/chat-evolution-nodejs-and-socketio.html
-
 ### To run:
 
 Please be sure you have expressjs and socket.io modules installed before running this application.
