@@ -1,8 +1,7 @@
-Multi-Room Chat Application
+A multi-chat application
 ===
 
-This application created as part of a node.js and socket.io tutorial.
-It includes a server built in node.js and a html client.
+This is a mult-chat application written in Node.js, and includes socket.io, and HTML, and CSS for front-end.
 
 ### To run:
 
