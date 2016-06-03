@@ -18,20 +18,6 @@ After running go to this address:
 
 ### Live demo
 
-For a live demo go to:
-
-	http://uditalias.github.com/chat-nodejs/public
-	
-
-	
-### Credits
-
-This application uses the following:
-
-- Animate.css library - by Dan Eden: http://daneden.me/animate/
-- Avgrung modal - by Hakim El Hattab: http://lab.hakim.se/avgrund/
-
-
 ### Future features
 
 - Chat history with MongoDB and LocalStorage
